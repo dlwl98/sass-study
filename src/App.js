@@ -21,7 +21,7 @@ function App() {
     setDialog((dialog) => false);
   };
   const onConfirm = () => {
-    console.log("확인");
+    console.log("확인이요");
     setDialog((dialog) => false);
   };
 
